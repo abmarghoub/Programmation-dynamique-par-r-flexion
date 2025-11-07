@@ -1,6 +1,23 @@
 
 #  TP 11 : Programmation Dynamique et Réflexion en Java
 
+## Réalisé par
+
+**Abla MARGHOUB**
+
+## Encadré par
+
+**Pr. Mohamed LACHGAR**
+
+## Module
+
+**Techniques de Programmation Avancée**
+
+## Établissement
+
+**École Normale Supérieure - Université Cadi Ayyad**
+
+---
 ##  Objectif du TP
 L’objectif principal de ce TP est de comprendre et mettre en pratique la programmation dynamique et la réflexion en Java à travers la création d’une application simple et modulaire.  
 Plus précisément, ce TP vise à :
